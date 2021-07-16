@@ -9,4 +9,9 @@
 >
 >
 > ![](https://i.imgur.com/KWfcpcO.png)
-
+>
+>Logistic_regression python file is main file.
+>
+>aussie_rain.joblib is the model . This model is use for prediction.
+>
+>
