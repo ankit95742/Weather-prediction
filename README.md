@@ -10,11 +10,3 @@
 >
 > ![](https://i.imgur.com/KWfcpcO.png)
 
-
-**EXERCISE**: Before proceeding further, take a moment to think about how you can approach this problem. List five or more ideas that come to your mind below:
-
-1. ???
-2. ???
-3. ???
-4. ???
-5. ???
